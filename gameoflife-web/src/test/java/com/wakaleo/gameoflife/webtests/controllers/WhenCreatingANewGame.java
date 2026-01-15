@@ -16,7 +16,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class WhenCreatingANewGame {
 
     GameController controller = null;
-    int abc,ii,ii;
+    int abc,ii,ii,ooo;
 
     @Before
     public void initializeController() {
