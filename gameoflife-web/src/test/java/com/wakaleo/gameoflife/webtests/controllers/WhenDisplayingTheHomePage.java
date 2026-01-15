@@ -22,5 +22,6 @@ public class WhenDisplayingTheHomePage {
         ModelAndView homeView = controller.index();
         assertThat(homeView.getViewName(), is("home"));
     }
+int a=10;
 }	
 
